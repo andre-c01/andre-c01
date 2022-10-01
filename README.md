@@ -1,4 +1,14 @@
-### Hi there 👋
+<h1 align="center">:large_orange_diamond: HELLO :large_orange_diamond:</h1>
+<p align="center">:small_blue_diamond: A place for all school projects and exercises :small_blue_diamond:</p>
+
+##
+
+| UFCD | Title |
+|:---|:---:|
+| [0804](https://github.com/andre-c01/school) | Java Algoritmos |
+| ... | ... |
+
+##
 
 <!--
 **andre-c01/andre-c01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
