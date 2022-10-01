@@ -3,10 +3,13 @@
 
 ##
 
-| UFCD | Title |
-|:---|:---:|
-| [0804](https://github.com/andre-c01/school) | Java Algoritmos |
-| ... | ... |
+<div align="center">
+
+  COLUMN1 | COLUMN 2
+  :---: | :---:
+  [0804](https://github.com/andre-c01/school) | Java Algoritmos
+  ... | ...
+</div>
 
 ##
 
