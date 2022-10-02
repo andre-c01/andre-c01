@@ -7,7 +7,7 @@
 
   UFCD | TITLE
   :---: | :---:
-  [0804](https://github.com/andre-c01/school) | Java Algoritmos
+  [0804](https://github.com/andre-c01/0804) | Java Algoritmos
   ... | ...
 </div>
 
