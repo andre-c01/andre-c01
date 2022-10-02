@@ -5,10 +5,10 @@
 
 <div align="center">
 
-  UFCD | TITLE | STATUS
-  :---: | :---: | :---:
-  [0804](https://github.com/andre-c01/0804) | Java Algoritmos | Working on it
-  [0769](https://github.com/andre-c01/0796) | Arquitetura interna do Computador | N/A
+  STATUS | TITLE | UFCD
+  :---: | :---: | :---
+  On Going | [0804](https://github.com/andre-c01/0804) | Java Algoritmos
+  Om Going | [0769](https://github.com/andre-c01/0796) | Arquitetura interna do Computador
   ... | ... | ...
 </div>
 
