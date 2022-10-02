@@ -1,7 +1,7 @@
 <h1 align="center">:large_orange_diamond: HELLO :large_orange_diamond:</h1>
 <p align="center">:small_blue_diamond: A place for all school projects and exercises :small_blue_diamond:</p>
 
-##
+- - -
 
 <div align="center">
 
@@ -11,7 +11,13 @@
   ... | ...
 </div>
 
-##
+- - -
+
+```
+            (o_
+  (o_  (o_  //\
+  (/)_ (/)_ V_/_ 
+``` 
 
 <!--
 **andre-c01/andre-c01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
