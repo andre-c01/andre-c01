@@ -8,7 +8,7 @@
   STATUS | TITLE | UFCD
   :---: | :---: | :---
   On Going | [0804](https://github.com/andre-c01/0804) | Java Algoritmos
-  Om Going | [0769](https://github.com/andre-c01/0769) | Arquitetura interna do Computador
+  On Going | [0769](https://github.com/andre-c01/0769) | Arquitetura interna do Computador
   ... | ... | ...
 </div>
 
@@ -19,6 +19,7 @@
   (o_  (o_  //\
   (/)_ (/)_ V_/_ 
 ``` 
+
 
 <!--
 **andre-c01/andre-c01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
