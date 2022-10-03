@@ -5,7 +5,7 @@
 
 <div align="center">
 
-  STATUS | TITLE | UFCD
+  STATUS | UFCD | TITLE
   :---: | :---: | :---
   On Going | [0804](https://github.com/andre-c01/0804) | Java Algoritmos
   On Going | [0769](https://github.com/andre-c01/0769) | Arquitetura interna do Computador
