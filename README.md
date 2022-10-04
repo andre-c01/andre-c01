@@ -9,7 +9,6 @@
   :---: | :---: | :---
   On Going | [0804](https://github.com/andre-c01/0804) | Java Algoritmos
   On Going | [0769](https://github.com/andre-c01/0769) | Arquitetura interna do Computador
-  On Going | [0798](https://github.com/andre-c01/0798) | Utilitários
   ... | ... | ...
 </div>
 
