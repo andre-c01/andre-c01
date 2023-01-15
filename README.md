@@ -13,7 +13,7 @@
   ... | ... | ...
   On Going | [server_scripts](https://github.com/andre-c01/server_scripts) | Web Server Scripts
   On Going | [Win_P2P](https://github.com/andre-c01/Win_P2P) | Win P2P File Sharing
-  On Going | [Win_P2P](https://github.com/andre-c01/WinServerAD_2022) | Win Server 2022 AD
+  On Going | [WinSrvAD_2022](https://github.com/andre-c01/WinServerAD_2022) | Win Server 2022 AD
 </div>
 
 - - -
