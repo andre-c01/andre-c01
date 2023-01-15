@@ -8,7 +8,7 @@
   STATUS | UFCD | TITLE
   :---: | :---: | :---
   Done | [0804](https://github.com/andre-c01/0804) | Java Algoritmos
-  On Going | [0804](https://github.com/andre-c01/c-plus-plus) | C++ Algoritmos
+  On Going | [N/A](https://github.com/andre-c01/c-plus-plus) | C++ Algoritmos
   Done | [0769](https://github.com/andre-c01/0769) | Arquitetura interna do Computador
   ... | ... | ...
   On Going | [server_scripts](https://github.com/andre-c01/server_scripts) | Web Server Scripts
