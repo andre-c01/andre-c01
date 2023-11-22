@@ -1,5 +1,17 @@
-<h1 align="center">:large_orange_diamond: HELLO :large_orange_diamond:</h1>
-<p align="center">:small_blue_diamond: A place for all school projects and exercises :small_blue_diamond:</p>
+<h2 align="center">:large_orange_diamond: Private Projects :large_orange_diamond:</h2>
+
+- - -
+
+<div align="center">
+
+  STATUS | TITLE
+  :---: | :---
+  On Going | [TrackMania Forever Server](https://github.com/andre-c01/)
+  On Going | [Lan Chact](https://github.com/andre-c01/)
+  On Going | [SQL Learn Page](https://github.com/andre-c01/)
+</div>
+
+<h2 align="center">:large_orange_diamond: School Projects :large_orange_diamond:</h2>
 
 - - -
 
