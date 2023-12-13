@@ -28,8 +28,8 @@
   ${\textsf{\color{green}Done}}$ | [N/A](https://github.com/andre-c01/WinServerAD_2022) | Win Server 2022 AD
   ${\textsf{\color{green}Done}}$ | [N/A](https://github.com/andre-c01/math_test) | Math Test
   ... | ... | ...
-  ${\textsf{\color{green}Done}}$ | [3933](https://github.com/andre-c01/3933) | DHCP Server , DNS Server , IPv4 Forwarding
-  ${\textsf{\color{orange}On\ Going}}$ | [xxxx](https://github.com/andre-c01/xxxx) | PHP page with user auth
+  ${\textsf{\color{green}Done}}$ | [xxxx](https://github.com/andre-c01/dhcp_dns) | DHCP Server , DNS Server , IPv4 Forwarding
+  ${\textsf{\color{orange}On\ Going}}$ | [3933](https://github.com/andre-c01/3933) | PHP page with user auth
 </div>
 
 - - -
