@@ -20,7 +20,7 @@
   STATUS | UFCD | TITLE
   :---: | :---: | :---
   ${\textsf{\color{green}Done}}$ | [0804](https://github.com/andre-c01/0804) | Java Algoritmos
-  ${\textsf{\color{orange}On\ Going}}$ | [0809](https://github.com/andre-c01/cpp) | C++ Algoritmos
+  ${\textsf{\color{green}Done}}$ | [0809](https://github.com/andre-c01/cpp) | C++ Algoritmos
   ${\textsf{\color{green}Done}}$ | [0769](https://github.com/andre-c01/0769) | Arquitetura interna do Computador
   ... | ... | ...
   ${\textsf{\color{green}Done}}$ | [N/A](https://github.com/andre-c01/server_scripts) | Web Server Scripts
